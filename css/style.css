@@ -61,8 +61,8 @@ main {
   max-height: 100%;
 }
 
-.brand__name {
-  font-size: xx-large;
+h1{
+  font-size: 3rem;
   font-weight: 900;
 }
 
