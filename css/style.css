@@ -101,6 +101,7 @@ h1 {
   grid-area: main-img;
   max-width: 100%;
   max-height: 100%;
+  transform: skew(-5deg,-4deg);
 }
 
 .index__subtitle {
@@ -137,6 +138,7 @@ h1 {
 
 .img__section--iimg5 {
   grid-area: img5;
+  transform: skew(5deg,4deg)
 }
 
 .index-p {
